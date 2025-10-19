@@ -1,0 +1,5 @@
+{
+  "name": "EZVIZ Security Store Clone",
+  "description": "A modern e-commerce storefront for security cameras and smart home devices, inspired by the EZVIZ store. It features a clean, responsive design with a product showcase, hero carousel, and detailed product cards.",
+  "requestFramePermissions": []
+}
